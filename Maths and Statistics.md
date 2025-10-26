@@ -83,11 +83,10 @@ variables, and also Identify trends.
 
 1. **Inferential Statistics** involve making predictions or drawing conclusions about a population based on a sample. 
 
-``` 
-Examples: 
-  - Predicting election results based on a sample poll.
-  - Estimating average income of a city from a survey sample. 
-  ```
+    >Examples: 
+    > - Predicting election results based on a sample poll.
+    >- Estimating average income of a city from a survey sample. 
+
 
 Estimating average income of a city from a survey sample.
     

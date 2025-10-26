@@ -88,13 +88,12 @@ variables, and also Identify trends.
     >- Estimating average income of a city from a survey sample. 
 
 
-Estimating average income of a city from a survey sample.
     
 2. **Descriptive Statistics** are used to summarize or decribe data , providing an overview of its main characteristics.
 
-- Examples:
-  - Calculating average monthly sales.
-  -  Creating a histogram of customer ages.
+    > Examples:
+    > - Calculating average monthly sales.
+    > - Creating a histogram of customer ages.
 
 ### Measures of Central Tendency: Mean, Median, Mode
 
@@ -105,10 +104,10 @@ when it is
 ordered in ascending order. If the dataset has an even number of values, the median is the average of the two middle values.
 
 3. **Mode** - Most frequently occurring data value.
-  - Examples
-    - Mean: Average marks of students in a class.
-    -  Median: Middle salary in a sorted list of employee salaries. 
-    - Mode: Most common shoe size sold in a store.
+    > Examples:
+    > - Mean: Average marks of students in a class.
+    > - Median: Middle salary in a sorted list of employee salaries. 
+    > - Mode: Most common shoe size sold in a store.
 
 ### Percentile
 
